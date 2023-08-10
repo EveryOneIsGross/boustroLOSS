@@ -49,6 +49,8 @@ Designing an experiment to test this hypothesis would involve:
 
 4. **Evaluation:** Defining evaluation metrics, analyzing results, and determining whether the boustrophedon style offers any performance advantages.
 
+## Context loss over large token limits might be reduced by shrank logic "tablets" too, which might benefit from boustrolossy shadowing 🤷‍♂️
+
 
 
 
