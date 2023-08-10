@@ -13,7 +13,7 @@ b derucsbo ro tsol si ti
 y truncation or physical
  I .tnemucod a ot egamad
  suspect it might help m
- .txetnoc niatnia
+ ........txetnoc niatnia
 
 here is my idea I have a
 x seidob gnitacnurt tuob
@@ -22,7 +22,7 @@ xxxerucsbo ro tsol si ti
 xxxxuncation or physical
 xxxxxnemucod a ot egamad
 xxxxxxct it might help m
-xxxxxxx .txetnoc niatnia
+xxxxxxx..txetnoc niatnia
 ```
 ![boustrophedon2](https://github.com/EveryOneIsGross/boustroLOSS/assets/23621140/002a9ee4-0448-4373-8106-3d1a03e363f7)
 
