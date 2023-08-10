@@ -3,7 +3,7 @@
 
 Boustrophedon and Large Language Models: Context Preservation in Truncated Text
 
-# example of boustrophedon:
+# example of boustrophedon: forgive me i did this on my phone by sight
 
 ```
 here is my idea I have a
