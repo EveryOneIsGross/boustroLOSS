@@ -1,11 +1,13 @@
 # boustroLOSS
 ---
 
-Boustrophedon and Large Language Models: Context Preservation in Truncated Text
+**Boustrophedon and Large Language Models: Context Preservation in Truncated Text**
 
-# example of boustrophedon: forgive me i did this on my phone by sight
+# example of boustrophedon: 
 
 ```
+forgive me i did this on my phone by sight
+
 here is my idea I have a
 o seidob gnitacnurt tuob
 f text when a portion of
@@ -49,7 +51,11 @@ Designing an experiment to test this hypothesis would involve:
 
 4. **Evaluation:** Defining evaluation metrics, analyzing results, and determining whether the boustrophedon style offers any performance advantages.
 
-## Context loss over large token limits might be reduced by shrank logic "tablets" too, which might benefit from boustrolossy shadowing 🤷‍♂️
+Th attached functioning 💅 python script boustroLOSS.py lets you input a body of text, state how many "tokens" per line and then which side to truncate and corrupt before printing it out formatted in a boustrophedon "tablet".
+
+## FUTURE THOUGHTS:
+
+**IDEA:** Context loss over large token limits might be reduced by shrank logic "tablets" too, which might benefit from boustrolossy shadowing 🤷‍♂️
 
 
 
